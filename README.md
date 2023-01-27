@@ -27,9 +27,9 @@ Use the Linkerd web UI to monitor the service mesh and gain visibility into serv
 As your application grows and evolves, use the Linkerd CLI tool to scale and update the service mesh as needed. `linkerd upgrade`
 
 
-Technical terms used
-Kubernetes: an open-source container orchestration system for automating the deployment, scaling, and management of containerized applications.
-Service mesh: a configurable infrastructure layer for microservices application that makes communication flexible, reliable, and fast, providing features such as traffic management, service discovery, load balancing, and security.
+## Technical terms used
+* Kubernetes: an open-source container orchestration system for automating the deployment, scaling, and management of containerized applications.
+* Service mesh: a configurable infrastructure layer for microservices application that makes communication flexible, reliable, and fast, providing features such as traffic management, service discovery, load balancing, and security.
 Linkerd: an open-source service mesh for Kubernetes that provides features such as traffic management, service discovery, load balancing, and security.
 Control plane: the control plane components in a service mesh are responsible for managing the configuration of the data plane proxies.
 Data plane: the data plane proxies in a service mesh are responsible for enforcing the configuration set by the control plane, and handling the actual traffic between services.
