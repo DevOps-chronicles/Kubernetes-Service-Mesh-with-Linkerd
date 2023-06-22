@@ -31,11 +31,11 @@ As your application grows and evolves, use the Linkerd CLI tool to scale and upd
 * Kubernetes: an open-source container orchestration system for automating the deployment, scaling, and management of containerized applications.
 * Service mesh: a configurable infrastructure layer for microservices application that makes communication flexible, reliable, and fast, providing features such as traffic management, service discovery, load balancing, and security.
 * Linkerd: an open-source service mesh for Kubernetes that provides features such as traffic management, service discovery, load balancing, and security.
-Control plane: the control plane components in a service mesh are responsible for managing the configuration of the data plane proxies.
-Data plane: the data plane proxies in a service mesh are responsible for enforcing the configuration set by the control plane, and handling the actual traffic between services.
-Sidecar: a sidecar container is a separate container that runs alongside the main container in a pod, and provides additional functionality such as traffic management, service discovery, and security.
-Prometheus: An open-source systems monitoring and alerting toolkit.
-Metrics server: A monitoring solution which provides metrics about the resource usage of pods and nodes.
-Web UI: A web-based user interface that allows you to interact with a system.
+* Control plane: the control plane components in a service mesh are responsible for managing the configuration of the data plane proxies.
+* Data plane: the data plane proxies in a service mesh are responsible for enforcing the configuration set by the control plane, and handling the actual traffic between services.
+* Sidecar: a sidecar container is a separate container that runs alongside the main container in a pod, and provides additional functionality such as traffic management, service discovery, and security.
+* Prometheus: An open-source systems monitoring and alerting toolkit.
+* Metrics server: A monitoring solution which provides metrics about the resource usage of pods and nodes.
+* Web UI: A web-based user interface that allows you to interact with a system.
 CLI tool: A command-line interface (CLI) tool is a type of software that allows users to interact with a computer or network by typing commands.
 Replicas: Replicas are multiple copies of a pod, service or
