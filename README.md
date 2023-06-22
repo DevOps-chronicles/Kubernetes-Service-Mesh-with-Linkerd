@@ -37,5 +37,5 @@ As your application grows and evolves, use the Linkerd CLI tool to scale and upd
 * Prometheus: An open-source systems monitoring and alerting toolkit.
 * Metrics server: A monitoring solution which provides metrics about the resource usage of pods and nodes.
 * Web UI: A web-based user interface that allows you to interact with a system.
-CLI tool: A command-line interface (CLI) tool is a type of software that allows users to interact with a computer or network by typing commands.
+* CLI tool: A command-line interface (CLI) tool is a type of software that allows users to interact with a computer or network by typing commands.
 Replicas: Replicas are multiple copies of a pod, service or
